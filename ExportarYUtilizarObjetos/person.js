@@ -3,3 +3,5 @@ const person = {
     "edad" : 25,
     "ciudad": "Sevilla"
 }
+
+module.exports = { person }
